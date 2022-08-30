@@ -1,2 +1,2 @@
-# goat51
+# GOAT51
 DIY Keyboard
