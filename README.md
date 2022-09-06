@@ -81,19 +81,29 @@ PCBはコンスルーに対応しております。
 LEDの取り付けは後回しにしても大丈夫です。  
 SK6812MINI-Eを中央のキースイッチ部分に取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1787.jpg?raw=true" width="600px"/>
-
-LEDのハンダ付け箇所の一つに予備ハンダをします。  
-LEDの
-LEDのハンダ付け箇所の一つに予備ハンダをします。  
+   
+SK6812MINI-Eの足が一部欠けている部分が白線がついているハンダ付け箇所に来るように向きを調整してください。  
+SK6812MINI-Eの発光部分がPCB表側に来るように置きます。
+SK6812MINI-Eのハンダ付け箇所の一つに予備ハンダをします。 
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1789.jpg?raw=true" width="600px"/>
 
+予備ハンダを溶かしながら、SK6812MINI-Eの足をハンダ付けしていきます。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1790.jpg?raw=true" width="600px"/>
 
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
+残りの箇所も順次ハンダ付けを行います。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1793.jpg?raw=true" width="600px"/>
 
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
+WS2812BをLED2番から11番に取り付けます。  
+WS2812Bの角の欠けた部分がLEDの印刷箇所と合うように向きを調整します。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1792.jpg?raw=true" width="600px"/>
+
+WS2812Bのハンダ付け箇所の一つに予備ハンダをします。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1794.jpg?raw=true" width="600px"/>
+
+予備ハンダを溶かしながらWS2812Bを取り付けます。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1795.jpg?raw=true" width="600px"/>
+
+
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
