@@ -171,13 +171,21 @@ GOAT51は、キースイッチの取り付けは
 中央プレートは18mmのネジで固定します。
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1822.jpg?raw=true" width="600px"/>
 
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-その他のキースイッチ
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
+その他の箇所は8mmのネジでキースイッチプレートとスペーサーを取り付けます。
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1821.jpg?raw=true" width="600px"/>
+
+下図のようにキースイッチプレートとボトムプレートをスペーサーで固定できれば完成です。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1825.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
+
+### 8.　キーキャップの取り付け
+
+キーキャップを取り付けます。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1827.jpg?raw=true" width="600px"/>
+
+### 9. ゴム足シールの取り付け
+
+ボトムプレートにゴム足シールを取り付けて完成です。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1828.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
