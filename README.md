@@ -136,16 +136,37 @@ GOAT51は、キースイッチの取り付けは
 もう片方もハンダ付けを行います。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1804.jpg?raw=true" width="600px"/>
 
-全部で51箇所を
+全部で51個のキースイッチを取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1805.jpg?raw=true" width="600px"/>
 
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
+### 6. キースイッチプレートの取り付け
+
+キースイッチプレートを取り付けます。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1806.jpg?raw=true" width="600px"/>
+
+保護シートを剥がして、PCBの表側にキースイッチプレートを置きます。  
+左右対称なので、お好きな面を表にしてください。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1812.jpg?raw=true" width="600px"/>
+
+### 7. キースイッチの取り付け
+
+キースイッチをキースイッチプレートに取り付けます。  
+全部で51箇所になります。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1815.jpg?raw=true" width="600px"/>
+
+### 8. ボトムプレートの取り付け
+
+ボトムプレートを取り付けます。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1808.jpg?raw=true" width="600px"/>
+
+取り付けには4mmのスペーサーと4mmのネジを使います。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1817.jpg?raw=true" width="600px"/>
+
+ボトムプレートにスペーサーとネジを取り付けます。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1819.jpg?raw=true" width="600px"/>
+
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1811.jpg?raw=true" width="600px"/>
+
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
