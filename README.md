@@ -165,6 +165,8 @@ GOAT51は、キースイッチの取り付けは
 ボトムプレートにスペーサーとネジを取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1819.jpg?raw=true" width="600px"/>
 
+中央プレートを
+
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1811.jpg?raw=true" width="600px"/>
 
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
