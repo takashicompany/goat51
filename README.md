@@ -165,14 +165,17 @@ GOAT51は、キースイッチの取り付けは
 ボトムプレートにスペーサーとネジを取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1819.jpg?raw=true" width="600px"/>
 
-中央プレートを
-
+保護シートを剥がして、中央プレートを取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1811.jpg?raw=true" width="600px"/>
 
+中央プレートは18mmのネジで固定します。
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1822.jpg?raw=true" width="600px"/>
+
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
+その他のキースイッチ
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1821.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1825.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
