@@ -70,13 +70,26 @@ PCB表側からリセットスイッチの足が出ていることを確認し�
 リセットスイッチの足をハンダ付けします。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1708.jpg?raw=true" width="600px"/>
 
+### 3. Pro Microの取り付け
+
+Pro Microを取り付けます。  
+PCBはコンスルーに対応しております。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1709.jpg?raw=true" width="600px"/>
+
+### 4. LEDの取り付け
+
+LEDの取り付けは後回しにしても大丈夫です。  
+SK6812MINI-Eを中央のキースイッチ部分に取り付けます。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1787.jpg?raw=true" width="600px"/>
+
+LEDのハンダ付け箇所の一つに予備ハンダをします。  
+LEDの
+LEDのハンダ付け箇所の一つに予備ハンダをします。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1789.jpg?raw=true" width="600px"/>
+
 
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 
-
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
