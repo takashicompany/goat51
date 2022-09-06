@@ -1,4 +1,4 @@
-# GOAT51
+# 🐐 GOAT51 🐐
 
 <img src="https://github.com/takashicompany/goat51/blob/master/images/01.jpg?raw=true" width="600px" />
 
@@ -93,6 +93,10 @@ SK6812MINI-Eのハンダ付け箇所の一つに予備ハンダをします。
 残りの箇所も順次ハンダ付けを行います。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1793.jpg?raw=true" width="600px"/>
 
+USBを繋いでSK6812MINI-Eが点灯するかを確認します。  
+点灯しない場合は`RGB_TOG`キーを押してみてください。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1799.jpg?raw=true" width="600px"/>
+
 WS2812BをLED2番から11番に取り付けます。  
 WS2812Bの角の欠けた部分がLEDの印刷箇所と合うように向きを調整します。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1792.jpg?raw=true" width="600px"/>
@@ -101,15 +105,40 @@ WS2812Bのハンダ付け箇所の一つに予備ハンダをします。
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1794.jpg?raw=true" width="600px"/>
 
 予備ハンダを溶かしながらWS2812Bを取り付けます。  
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1795.jpg?raw=true" width="600px"/>
+残りの箇所もハンダ付けをします。一つのWS2812Bにつき4箇所ハンダ付けします。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1796.jpg?raw=true" width="600px"/>
 
+全てのLEDを付け終わったらUSBを繋いで点灯するかを確認してください。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1800.jpg?raw=true" width="600px"/>
 
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
+### 5. キースイッチの取り付け
+
+GOAT51は、キースイッチの取り付けは
+
+- PCBに直にキースイッチをハンダ付けする
+- PCBにキースイッチソケットを取り付けて、キースイッチソケットにキースイッチを挿す
+
+の二通りに対応しております。
+
+(スイッチプレートが5mm厚の場合はMX互換のキースイッチのみ取付可能。)
+
+中央のキースイッチのみ、MX用のキースイッチソケットを取り付ける必要があります。
+
+キースイッチソケットの印刷とキースイッチソケットの向きが合うことを確認します。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1801.jpg?raw=true" width="600px"/>
+
+キースイッチソケットのハンダ付け箇所の片側に予備ハンダを行います。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1802.jpg?raw=true" width="600px"/>
+
+予備ハンダを溶かしながらキースイッチソケットをハンダ付けします。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1803.jpg?raw=true" width="600px"/>
+
+もう片方もハンダ付けを行います。  
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1804.jpg?raw=true" width="600px"/>
+
+全部で51箇所を
+<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1805.jpg?raw=true" width="600px"/>
+
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
