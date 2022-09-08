@@ -18,7 +18,7 @@ A key switch socket can also be installed on the PCB for easy keyswitch replacem
 There is a dedicated space in the center of the keyboard for mounting your favorite keycaps, allowing you to display Artisan keycaps or your favorite keycaps.  
 In fact, you can even place a rotary encoder there.
 
-### キットに同梱されているもの
+## キットに同梱されているもの
 |部品|個数|備考|
 |:--|:--|:--|
 |PCB|1|リードタイプと表面実装のダイオードに対応。|
