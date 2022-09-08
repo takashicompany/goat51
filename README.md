@@ -18,6 +18,40 @@ A key switch socket can also be installed on the PCB for easy keyswitch replacem
 There is a dedicated space in the center of the keyboard for mounting your favorite keycaps, allowing you to display Artisan keycaps or your favorite keycaps.  
 In fact, you can even place a rotary encoder there.
 
+### キットに同梱されているもの
+|部品|個数|備考|
+|:--|:--|:--|
+|PCB|1|リードタイプと表面実装のダイオードに対応。|
+|キースイッチプレート|1||
+|ボトムプレート|1||
+|中央トッププレート|1||
+|中央積層プレート|1||
+|ダイオード|45||
+|m2スペーサー(4mm)|8||
+|m2ネジ(4mm)|8||
+|m2ネジ(8mm)|4||
+|m2ネジ(18mm)4||
+|リセットスイッチ|1||
+|MXソケット|1||
+|滑り止めシール|6||
+
+### 別途用意するもの
+|部品|個数|備考|
+|:--|:--|:--|
+|キースイッチ|45|Cherry MX互換のもの。|
+|キーキャップ|45|全て1u。Chery MX互換のもの。|
+|Pro Micro|1||
+|USBケーブル|1|Pro MicroとPCを接続します。|
+
+### オプション
+|部品|個数|備考|
+|:--|:--|:--|
+|コンスルー|2|12pin、13pinに対応しておりますのでMCU(Pro Micro)にあわせて選択が可能です。|
+|MXソケット|44|中央のキー以外は、キースイッチのはんだ付け/MXソケットによる挿し込みの両方に対応。|
+|LED(SK6812MINI-E)|2|中央のキーとキーボード手前側の穴をバックライトで光らせることができます。|
+|LED(WS2812B)|10|アンダーグロウライトとしてキーボードの底面を光らせることができます。|
+
+## 組み立て方
 
 ### 1. PCBの表裏を確認する
 
