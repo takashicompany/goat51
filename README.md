@@ -83,7 +83,7 @@ PCBの表面にハンダが漏れないようにマスキングテープを貼�
 Rev1 PCBの中央のキースイッチだけ向きが逆なのでご注意ください。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1702.jpg?raw=true" width="600px"/>
 
-全部で51個のダイオードを取り付けます。
+全部で51個のダイオードを取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1703.jpg?raw=true" width="600px"/>
 
 PCBの表面にハンダが漏れて盛り上がっていないことを確認します。  
