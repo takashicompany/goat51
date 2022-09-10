@@ -118,7 +118,7 @@ SK6812MINI-Eを中央のキースイッチ部分に取り付けます。
    
 SK6812MINI-Eの足が一部欠けている部分が白線がついているハンダ付け箇所に来るように向きを調整してください。  
 SK6812MINI-Eの発光部分がPCB表側に来るように置きます。
-SK6812MINI-Eのハンダ付け箇所の一つに予備ハンダをします。 
+SK6812MINI-Eのハンダ付け箇所の一つに予備ハンダをします。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1789.jpg?raw=true" width="600px"/>
 
 予備ハンダを溶かしながら、SK6812MINI-Eの足をハンダ付けしていきます。  
