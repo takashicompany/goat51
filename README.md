@@ -7,7 +7,6 @@ GOAT51は51キーのキーボードです。
 MX互換のキースイッチとChoc v1キースイッチの取り付けに対応しております。  
 またPCBにキースイッチソケットを取り付けることが可能で、容易にキースイッチの交換ができます。  
 キーボードの中央にはお気に入りのキーキャップを取り付ける専用スペースがあり、アルチザンキーキャップやお気に入りのキーキャップを飾ることができます。  
-実はそこにはロータリーエンコーダを置くこともできちゃいます。
 
 ---
 
@@ -16,7 +15,6 @@ The distinctive radial key layout allows the fingers to be placed naturally for 
 It supports the installation of MX compatible key switches and Choc v1 key switches.  
 A key switch socket can also be installed on the PCB for easy keyswitch replacement.  
 There is a dedicated space in the center of the keyboard for mounting your favorite keycaps, allowing you to display Artisan keycaps or your favorite keycaps.  
-In fact, you can even place a rotary encoder there.
 
 ## キットに同梱されているもの
 |部品|個数|備考|
