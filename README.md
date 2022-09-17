@@ -112,8 +112,8 @@ PCBはコンスルーに対応しております。
 
 ### 4. ファームウェアの書き込み
 
+[Remap用のファームウェア](https://remap-keys.app/catalog/eEYpy3syWDyEpwthc8kC/firmware)を用意しております。
 QMKへのプルリクエストは[こちら](https://github.com/qmk/qmk_firmware/pull/18220)です。
-
 
 ### 5. LEDの取り付け
 
