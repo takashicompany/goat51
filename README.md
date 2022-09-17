@@ -110,7 +110,9 @@ Pro Microを取り付けます。
 PCBはコンスルーに対応しております。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1709.jpg?raw=true" width="600px"/>
 
-### 4. LEDの取り付け
+### 4. ファームウェアの書き込み
+
+### 5. LEDの取り付け
 
 LEDの取り付けは後回しにしても大丈夫です。  
 SK6812MINI-Eを中央のキースイッチ部分に取り付けます。  
@@ -145,7 +147,7 @@ WS2812Bのハンダ付け箇所の一つに予備ハンダをします。
 全てのLEDを付け終わったらUSBを繋いで点灯するかを確認してください。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1800.jpg?raw=true" width="600px"/>
 
-### 5. キースイッチの取り付け
+### 6. キースイッチの取り付け
 
 GOAT51は、キースイッチの取り付けは
 
@@ -173,7 +175,7 @@ GOAT51は、キースイッチの取り付けは
 全部で51個のキースイッチを取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1805.jpg?raw=true" width="600px"/>
 
-### 6. キースイッチプレートの取り付け
+### 7. キースイッチプレートの取り付け
 
 キースイッチプレートを取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1806.jpg?raw=true" width="600px"/>
@@ -182,13 +184,13 @@ GOAT51は、キースイッチの取り付けは
 左右対称なので、お好きな面を表にしてください。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1812.jpg?raw=true" width="600px"/>
 
-### 7. キースイッチの取り付け
+### 8. キースイッチの取り付け
 
 キースイッチをキースイッチプレートに取り付けます。  
 全部で51箇所になります。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1815.jpg?raw=true" width="600px"/>
 
-### 8. ボトムプレートの取り付け
+### 9. ボトムプレートの取り付け
 
 ボトムプレートを取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1808.jpg?raw=true" width="600px"/>
@@ -211,12 +213,12 @@ GOAT51は、キースイッチの取り付けは
 下図のようにキースイッチプレートとボトムプレートをスペーサーで固定できれば完成です。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1825.jpg?raw=true" width="600px"/>
 
-### 8.　キーキャップの取り付け
+### 10.　キーキャップの取り付け
 
 キーキャップを取り付けます。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1827.jpg?raw=true" width="600px"/>
 
-### 9. ゴム足シールの取り付け
+### 11. ゴム足シールの取り付け
 
 ボトムプレートにゴム足シールを取り付けて完成です。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1828.jpg?raw=true" width="600px"/>
