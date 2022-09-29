@@ -20,7 +20,7 @@ There is a dedicated space in the center of the keyboard for mounting your favor
 |部品|個数|備考|
 |:--|:--|:--|
 |PCB|1|リードタイプと表面実装のダイオードに対応。|
-|キースイッチプレート|1|5mmあつ|
+|キースイッチプレート|1|5mm厚|
 |ボトムプレート|1||
 |中央トッププレート|1||
 |中央積層プレート|1||
