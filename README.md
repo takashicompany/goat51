@@ -223,30 +223,4 @@ GOAT51は、キースイッチの取り付けは
 
 ボトムプレートにゴム足シールを取り付けて完成です。  
 <img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1828.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
-<img src = "https://github.com/takashicompany/goat51/blob/master/images/build/IMG_1.jpg?raw=true" width="600px"/>
+
