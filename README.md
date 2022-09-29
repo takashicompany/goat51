@@ -36,8 +36,8 @@ There is a dedicated space in the center of the keyboard for mounting your favor
 ### 別途用意するもの
 |部品|個数|備考|
 |:--|:--|:--|
-|キースイッチ|45|Cherry MX互換のもの。|
-|キーキャップ|45|全て1u。Chery MX互換のもの。|
+|キースイッチ|51|Cherry MX互換のもの。|
+|キーキャップ|51|全て1uで取付可能。一部キーのみ、1.25u、1.5uがあると望ましい。|
 |Pro Micro|1||
 |USBケーブル|1|Pro MicroとPCを接続します。|
 
